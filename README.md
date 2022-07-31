@@ -12,8 +12,8 @@
 #saib
 #mango
 
-1. sybil
+1 sybil
   + school
    + college
     + university
-      vocation
+2 vocation
